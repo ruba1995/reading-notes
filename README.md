@@ -28,4 +28,4 @@ it's a styling way used on web page mostly on gitHub , it has some special synta
  
  2- Emphasis :**This text will be bold** (for exampel )
  
- 3-link :[GitHub](http://github.com)
+ 3-link :[name of website] (http://name .com)
