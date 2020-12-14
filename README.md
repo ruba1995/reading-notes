@@ -16,3 +16,16 @@ i think it's a way to make our thinking process much useful and much practical s
 2- i believe sometimes we have to compare ourselves with others and if we did this our mind or brain will grow and work better 
 
 3-do not listen to negative people .
+
+
+## markdown :
+
+it's a styling way used on web page mostly on gitHub , it has some special syntax we can use it .
+
+### markdown syntax :
+
+ 1- header : #
+ 
+ 2- Emphasis :**This text will be bold** (for exampel )
+ 
+ 3-link :[GitHub](http://github.com)
