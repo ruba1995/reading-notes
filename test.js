@@ -9,6 +9,15 @@ function checknumber (number){
  if ( number% 2==0  )
  { alert ("this number is even") ;}
  else { alert ("this numer is odd");
+
 }
+
+let num =prompt( "enter anumber less than 10 ")
+
+while  (num ==   5 || num == 6 || num ==2 )
+{ 
+   num =prompt(" welcome ")
+}
+
 }
  
