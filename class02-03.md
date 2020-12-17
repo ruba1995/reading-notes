@@ -1,4 +1,4 @@
-# what i have learned in class03 
+# what i have learned in class02-03 
 
 ## how to use git and github terminal and HTML :
 
