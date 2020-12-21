@@ -4,14 +4,19 @@ body {
     
     }
     
-    .h2 {text-align: center;
-    
-    color : black 
+    .h2 {
+    text-align: center;
+    background-color: white;
+    color :teal
     }
 
-    h2{ color : blue ;
+    h2{ color: teal;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
+    border: solid;
+    border-color: white;
+
+
     
     } 
 div{
@@ -20,16 +25,13 @@ div{
     vertical-align:top;
     border-width: 150px;  
     border-radius: 20px;
-    background-clip: border-box;
     background-color: white;
     width: 150px;
-    height: 150px;
-    margin:30px ;
-   
+    height: 150px;  
 }
   img {
-        border: 1px solid #ddd;
-        border-radius: 4px;
+        border: solid;
+        border-color: white;
         padding: 5px;
         width: 150px;
         height: 150;
