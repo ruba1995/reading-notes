@@ -29,3 +29,21 @@ it's a styling way used on web page mostly on gitHub , it has some special synta
  2- Emphasis :**This text will be bold** (for exampel )
  
  3-link :[name of website] (http://name .com)
+ 
+ 
+ ## next lessons:
+ 
+ 1- [class02-03](https://ruba1995.github.io/reading-notes/class02-03)
+ 
+ 2-[class 04](https://ruba1995.github.io/reading-notes/class04-read)
+ 
+ 3-[class05](https://ruba1995.github.io/reading-notes/CLASS05-READ)
+ 
+ 4-[CLASS06](https://ruba1995.github.io/reading-notes/class06-read)
+ 
+ 5-[class07](https://ruba1995.github.io/reading-notes/class07-read)
+ 
+ 6-[class08](https://ruba1995.github.io/reading-notes/class08-read)
+
+
+
