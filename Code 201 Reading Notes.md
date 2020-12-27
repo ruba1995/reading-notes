@@ -4,7 +4,7 @@
 
 |     LECTURE            | What i have learned .    | 
 | :-------------         | :----------:             | 
-|    - class(1)           |                          | 
+|    - class(1)           |    [class-01](https://ruba1995.github.io/reading-notes/class-01)                      | 
 |    - class(2)           |                          |
 |    - class(3)           |                          | 
 |    - class(4)           |                          |
