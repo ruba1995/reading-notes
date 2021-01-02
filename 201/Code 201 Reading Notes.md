@@ -9,7 +9,7 @@
 |    - class(3)           |          [class03](https://ruba1995.github.io/reading-notes/201/class-3)                | 
 |    - class(4)           |                          |
 |    - class(5)           |         [class05](https://ruba1995.github.io/reading-notes/201/class-5)                 | 
-|    - class(6)           |                          |
+|    - class(6)           |           [class06](https://ruba1995.github.io/reading-notes/201/class-6)               |
 |    - class(7)           |                          | 
 |    - class(8)           |                          |
 |    - class(9)           |                          | 
