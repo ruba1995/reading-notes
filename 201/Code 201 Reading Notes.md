@@ -7,9 +7,9 @@
 |    - class(1)           |    [class-01](https://ruba1995.github.io/reading-notes/class-01)                      | 
 |    - class(2)           |         [class-02](https://ruba1995.github.io/reading-notes/201/class-2)                 |
 |    - class(3)           |          [class03](https://ruba1995.github.io/reading-notes/201/class-3)                | 
-|    - class(4)           |                          |
+|    - class(4)           |         [class04](https://ruba1995.github.io/reading-notes/201/class%20-4)                 |
 |    - class(5)           |         [class05](https://ruba1995.github.io/reading-notes/201/class-5)                 | 
-|    - class(6)           |                          |
+|    - class(6)           |           [class06](https://ruba1995.github.io/reading-notes/201/class-6)               |
 |    - class(7)           |                          | 
 |    - class(8)           |                          |
 |    - class(9)           |                          | 
