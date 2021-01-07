@@ -12,7 +12,7 @@
 |    - class(6)           |           [class06](https://ruba1995.github.io/reading-notes/201/class-6)               |
 |    - class(7)           |            [class07](https://ruba1995.github.io/reading-notes/201/class-7)              | 
 |    - class(8)           |               [class08](https://ruba1995.github.io/reading-notes/201/class-8)           |
-|    - class(9)           |                          | 
+|    - class(9)           |              [class09](https://ruba1995.github.io/reading-notes/201/class-9)            | 
 |    - class(10)          |                          |
 |    - class(11)          |                          | 
 |    - class(12)          |                          |
