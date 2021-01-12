@@ -16,6 +16,6 @@
 |    - class(10)          |                 [CLASS10](https://ruba1995.github.io/reading-notes/201/class-10)         |
 |    - class(11)          |      [class11](https://ruba1995.github.io/reading-notes/201/class-11)                    | 
 |    - class(12)          |        [class12](https://ruba1995.github.io/reading-notes/201/class-12)                  |
-|    - class(13)          |                          | 
+|    - class(13)          |        [class13](https://ruba1995.github.io/reading-notes/201/class-13)                  | 
 |    - class(14)          |                          |
 |    - class(15)          |                          | 
